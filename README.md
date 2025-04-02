@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KUSHAGRA KESHAW and github user id is @sc23k2k
+- 👋 Hi, I’m KUSHAGRA KESHAW and my github user id is @sc23k2k
 - 🧑‍💻 EX - Amazon (AWS), EX - Sleepiz AZ, EX - Nitor Infotech
 - 👀 I’m interested in Cloud Computing, DevOps, SRE, Infrastructure Engineering, Cloud Engineering
 - 🌱 I’m currently learning Linux Performance Analysis, Troubleshooting and DevOps Practices, System Design, Development
