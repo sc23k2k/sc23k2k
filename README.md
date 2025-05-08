@@ -3,7 +3,7 @@
 - 👀 I’m interested in Cloud Computing, DevOps, SRE, Infrastructure Engineering, Cloud Engineering
 - 🌱 I’m currently learning Linux Performance Analysis, Troubleshooting and DevOps Practices, System Design, Development
 - 🤝 I’m looking to collaborate on Performance Analysis, Troubleshooting and DevOps Practices, System Design, Development
-- 📫 How to reach me ...  Email - sc23k2k@leeds.ac.uk
+- 📫 How to reach me ...  Email - kushagra.keshaw@live.com
 - ⚡ Fun fact: ...  Every day is a Day 1 for learning.  
 
 <!---
